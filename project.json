@@ -4,7 +4,7 @@
     "frameRate"     : 30,
     "id"            : "gameCanvas",
     "renderMode"    : 0,
-    "engineDir"     : "../cocos2d-x-3.9/web/",
+    "engineDir"     : "frameworks/cocos2d-html5/",
 
     "modules"       : ["cocos2d", "extensions", "external", "chipmunk"],
 
